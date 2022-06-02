@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217796524268",
+    "project_id": "medes-404",
+    "storage_bucket": "medes-404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217796524268:android:e75d48a82bf0b60d904dc9",
+        "android_client_info": {
+          "package_name": "com.example.medes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217796524268-2fo4bn5c8jbje9bggkkfpst1n1gb96em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPymDlOZVz5NNpujV878_4vWT4kLOdvuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217796524268-2fo4bn5c8jbje9bggkkfpst1n1gb96em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
